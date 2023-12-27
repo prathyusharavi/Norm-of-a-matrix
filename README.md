@@ -44,18 +44,23 @@ print("{:.2f}".format(ans))
 ## Output:
 ### 1-Norm of a Matrix
 
-![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/b7889559-6de8-4e93-87bf-195d31efab19)
+![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/42615170-ded2-4ba6-8974-c6ecbb76a391)
+
 
 
 ### 2-Norm of a Matrix
 
-![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/60abd39b-a4e3-4e69-b37f-2a6f9059368e)
+![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/dab7a9d7-37ec-4227-bc67-55c85b4c21e1)
 
 
 
 ### Infinity Norm of a Matrix
 
-![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/24ec8f74-4ae3-47c3-b824-d8c55c7eb85c)
+
+![image](https://github.com/prathyusharavi/Norm-of-a-matrix/assets/147474424/f14faab9-d354-47d4-ae82-b390fc11ee47)
+
+
+
 
 
 
